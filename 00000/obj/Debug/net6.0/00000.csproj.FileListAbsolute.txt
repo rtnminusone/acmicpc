@@ -1,0 +1,15 @@
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\bin\Debug\net6.0\00000.exe
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\bin\Debug\net6.0\00000.deps.json
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\bin\Debug\net6.0\00000.runtimeconfig.json
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\bin\Debug\net6.0\00000.dll
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\bin\Debug\net6.0\00000.pdb
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\obj\Debug\net6.0\00000.csproj.AssemblyReference.cache
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\obj\Debug\net6.0\00000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\obj\Debug\net6.0\00000.AssemblyInfoInputs.cache
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\obj\Debug\net6.0\00000.AssemblyInfo.cs
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\obj\Debug\net6.0\00000.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\obj\Debug\net6.0\00000.dll
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\obj\Debug\net6.0\refint\00000.dll
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\obj\Debug\net6.0\00000.pdb
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\obj\Debug\net6.0\00000.genruntimeconfig.cache
+C:\Users\Administrator\.vscode\projects\acmicpc\00000\obj\Debug\net6.0\ref\00000.dll
