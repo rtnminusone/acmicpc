@@ -24,8 +24,7 @@ public class myStack
 	public int pop()
 	{
 		if (this.pos == -1) return -1;
-		int rtn = this.data[this.pos];
-		this.data[this.pos--] = -1;
+		int rtn = this.data[this.pos--];
 		return rtn;
 	}
 
