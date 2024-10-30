@@ -9,14 +9,12 @@ StringBuilder sb = new StringBuilder();
 
 for (int i = 0; i < S.Length; i++)
 {
-	for (int j = 1; j <= S.Length - i; j++)
+	for (int j = i + 1; j <= S.Length; j++)
 	{
-		int k = i;
-		int c = j;
 		sb.Clear();
-		while (c-- > 0)
+		for (int k = i; k < j; k++)
 		{
-			sb.Append(S[k++]);
+			sb.Append(S[k]);
 		}
 		H.Add(sb.ToString());
 	}
