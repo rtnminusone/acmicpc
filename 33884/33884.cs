@@ -8,14 +8,14 @@ for (int i = 0; i < N; i++)
 {
 	string[] S = Console.ReadLine().Split();
 	int a = int.Parse(S[0]);
-	int b = int.Parse(S[0]);
+	int b = int.Parse(S[1]);
 	PQ1.Enqueue((a, b), (a, b));
 }
 for (int i = 0; i < N; i++)
 {
 	string[] S = Console.ReadLine().Split();
 	int a = int.Parse(S[0]);
-	int b = int.Parse(S[0]);
+	int b = int.Parse(S[1]);
 	PQ2.Enqueue((a, b), (a, b));
 }
 
